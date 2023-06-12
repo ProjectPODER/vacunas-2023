@@ -1,0 +1,22 @@
+.navbar-brand {
+    font-family: Lato;
+    font-weight: bolder;
+}
+
+.navbar-brand img {
+    width: 80px;
+    padding: 5px 20px 5px 0;
+}
+
+.line{
+    border-bottom: 2px solid;
+    border-color: $primary;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.bg-dark {
+    background-color: $green !important;
+}

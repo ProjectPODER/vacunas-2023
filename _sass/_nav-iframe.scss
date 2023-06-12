@@ -1,0 +1,29 @@
+.nav-iframe {
+	z-index: 9999;
+
+	.nav-item {
+		margin: 5px 1px 0;
+	}
+
+	.nav-link {
+		background-color: $green;
+		padding-left: 1rem !important;
+		padding-right: 1rem !important;
+		border-radius: 0.25rem;
+		transition: padding 0s;
+		font-weight: bold;
+	}
+
+	.navbar-nav .active>.nav-link {
+		background-color: $yellow !important;
+	}
+}
+
+.nav-mobile-iframe {
+	z-index: 9999;
+}
+
+.nav-iframe a.nav-link:hover {
+	background-color: darken($green, 10%);
+}
+

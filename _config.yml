@@ -1,0 +1,143 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: El Negocio de las Vacunas
+
+# Logo image
+image:
+
+#Description of your site
+description: >-
+  La industria farmacéutica global y en México ha utilizado diferentes mecanismos para influenciar la toma de decisiones sobre la pandemia. Las empresas ganan a costa de la vida y la salud. Te mostramos quiénes son y como han aumentado sus ingresos las empresas que producen vacunas contra COVID-19.
+
+# Allow top menu: true or false
+top_menu: true
+
+# Customize the More information menu button title
+menu_button_title: Más información
+
+# URL of your contracts file or API endpoint
+contracts_url: "/assets/data/contracts.csv"
+#contracts_url: "https://api.beta.quienesquien.wiki/v2/contracts?sort=-compiledRelease.total_amount&compiledRelease.parties.memberOf.name=%2FGrupo%20Aeroportuario%2Fi&debug=true&limit=614"
+
+# URL of your beneficial ownership file or API endpoint
+bods_url: "/assets/data/owners.csv"
+
+graph:
+  # The name of your graphic
+  - title: "261M DE DOSIS"
+  # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
+  - sizes:
+    - min: 10
+    - max: 300
+  # colores de nodos y connectores
+  - colours:
+      - nodes:
+          - default: '#f7d147'
+          - contract: '#f7d147'
+          - contractTypes: '#f88b5f'
+          - contractByType: '#365be4'
+          - organization: '#75ba4a'
+          - shareholderPerson: '#ec9acd'
+          - shareholderCorp: '#9c5ada'
+      - links:
+          - default: '#706F74'
+          - contractsTypes: '#706F74'
+          - toCenter: '#706F74'
+          - toContractType: '#706F74'
+          - toOrganization: '#706F74'
+  - descriptionLink: "Ir al perfil"
+
+  #Format of the contracts_url: releases_json, records_json_api, csv
+  # releases_json: {releases: [] }
+  # records_json_api: {data: { records: [ {compiledRelease: {} }] } }
+  # csv: a csv file
+  - contracts_format: "csv"
+
+# Customize the titles and placeholder inputs in Contracts page
+# Personaliza los títulos y placeholders de los inputs en el buscador de contratos
+contracts_title: Contratos por empresas
+search_title: Búsqueda
+search_placeholder: Introduce palabra clave a buscar
+amount_title: Dosis Totales
+amount_from_placeholder: Desde
+amount_to_placeholder: hasta
+type_contract_title: Tipo de contratación
+type_contract_title_tooltip: La ley obliga a la Unidad Compradora a definir el tipo de contratación, ya que varían las normas en cada caso.
+type_contract_all_option: Todo
+type_procedure_title: Tipo de procedimiento
+type_procedure_title_tooltip: La licitación pública es según la ley mexicana el procedimiento adecuado para contratar obra publica. Excepcionalmente también se pueden realizar otro tipo de procedimientos como adjudicación directa, convenio e invitación a cuando menos tres proveedores.
+type_procedure_all_option: Todo
+date_range_title: Rango de fechas
+date_range_from_placeholder: Desde
+date_range_to_placeholder: hasta
+date_range_title_tooltip: Encuentra los contratos activos entre dos fechas.
+filter_footnote_title: Los filtros aplican sobre los contratos que tienen las empresas.
+# Personaliza los títulos de la tabla
+column_1: Empresas
+column_2: Cant. de contratos
+column_3: Dosis totales
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-analytics
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - docs/
+
+# Collections
+collections_dir: collections
+collections:
+  first-slider:
+    output: true
+  second-slider:
+    output: true
+  third-slider:
+    output: true
+  fourth-slider:
+    output: true
+  visualization-slider:
+    output: true
+  home:
+    output: true
+  footer:
+    output: true
+
+# Set to false to hide excerpts on the posts page
+show_excerpts: true
+future: true
+
+# Set the date language in the posts and post page (en/es).
+date-language: "es"
+
+# Set the date format in the posts and post page.
+# Other formats: "%a, %b %d, %y" | "%Y" | "%b %d, %y" | "%Y-%m-%d %H:%M"
+date-format: "%B %-d, %Y"
+
+# Analytics Configuration (for more options, see the documentation)
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-123-456          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking

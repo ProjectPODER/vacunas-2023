@@ -1,0 +1,83 @@
+---
+layout: default
+title: Contratos
+permalink: /contratos/
+---
+
+<section id="contracts_page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="contracts-content">
+                    <h1 class="contracts-title">{{site.contracts_title}}</h1>
+                    <div class="form-group contract-search">
+                        <label for="search" class="search-title">{{site.search_title}}</label>
+                        <input type="text" class="form-control" id="search-text" placeholder="{{site.search_placeholder}}">
+                    </div>
+                    <div class="row contract-filter">
+                        <div class="col-lg-3">
+                            <div class="form-group filter-box filter-amount">
+                                <div>
+                                    <label class="filter-title">{{site.amount_title}}</i></label>
+                                </div>
+                                <input type="text" id="search-fromAmount" name="fromAmount" class="filter-input filter-input-from form-control input-group" placeholder="{{site.amount_from_placeholder}}">
+                                <input type="text" id="search-toAmount" name="toAmount" class="filter-input filter-input-to form-control input-group" placeholder="{{site.amount_to_placeholder}}">
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="form-group filter-box filter-contract-type">
+                                <label class="filter-title">{{site.type_contract_title}}<img src="{{ site.baseurl }}/assets/img/info-circle-solid.svg" alt="icon" class="info-icon" data-toggle="tooltip" data-placement="bottom" title="{{site.type_contract_title_tooltip}}"></label>
+                                <select id="search-contractType" name="contractType" class="form-control" id="" class="filter-input">
+                                    <option value="todos">-{{site.type_contract_all_option}}-</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="form-group filter-box filter-procedure-type">
+                                <label class="filter-title">{{site.type_procedure_title}}<img src="{{ site.baseurl }}/assets/img/info-circle-solid.svg" alt="icon" class="info-icon" data-toggle="tooltip" data-placement="bottom" title="{{site.type_procedure_title_tooltip}}"></label>
+                                <select id="search-procedureType" name="procedureType" class="form-control" id="" class="filter-input">
+                                    <option value="todos">-{{site.type_procedure_all_option}}-</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="form-group filter-box filter-date">
+                                <div>
+                                    <label class="filter-title">{{site.date_range_title}}<img src="{{ site.baseurl }}/assets/img/info-circle-solid.svg" alt="icon" class="info-icon" data-toggle="tooltip" data-placement="bottom" title="{{site.date_range_title_tooltip}}"></label>
+                                </div>
+                                <input type="text" id="search-dateFrom" class="filter-input filter-input-from datepicker__input-container form-control" placeholder="{{site.date_range_from_placeholder}}">
+                                <input type="text" id="search-dateTo" class="filter-input filter-input-to datepicker__input-container form-control" placeholder="{{site.date_range_to_placeholder}}">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <p class="filter-footnote">{{site.filter_footnote_title}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row" style="margin-bottom: 3rem;">
+            <div class="col-lg-12">
+                <div class="table-responsive">
+                    <table id="contracts_search" width="100%"></table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/datatables.min.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/gijgo.min.css" />
+
+<script src="{{ site.baseurl }}/assets/javascript/papaparse.min.js"></script>
+<script src="{{ site.baseurl }}/assets/javascript/datatables.min.js"></script>
+<script src="{{ site.baseurl }}/assets/javascript/gijgo.min.js"></script>
+<script src="{{ site.baseurl }}/assets/javascript/towersearch.js"></script>
+
+<script type="text/javascript">
+    getSearchData($, "{{ site.contracts_url | prepend: site.baseurl }}");
+
+    $('#search-dateFrom').datepicker({ format: 'yyyy-mm-dd', showRightIcon: false, uiLibrary: 'bootstrap4', iconsLibrary: 'fontawesome' });
+    $('#search-dateTo').datepicker({ format: 'yyyy-mm-dd', showRightIcon: false, uiLibrary: 'bootstrap4', iconsLibrary: 'fontawesome' });
+
+</script>

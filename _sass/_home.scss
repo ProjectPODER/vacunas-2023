@@ -1,0 +1,146 @@
+.home-content {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 35rem;
+    padding: 10rem 0;
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(90%,rgba(22,22,22,.5)),to(#161616)),url('#{$bgHome}');
+    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 90%,#161616 100%),url('#{$bgHome}');
+    // background: url('#{$bgHome}');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-color: $blue;
+
+    h1 {
+        font-size: 70px;
+        line-height: 75px;
+        margin-bottom: 2rem;
+        font-weight: bolder;
+    }
+
+    h1,
+    p {
+        color: $white;
+    }
+    h1 {
+        text-shadow: #222222 6px 5px 1px;
+    }
+    p {
+        font-size: 1.7rem;
+
+    }
+    a {
+        @extend .btn;
+        @extend .btn-primary;
+        margin: 2rem 0.5rem 1rem 0.5rem;
+    }
+    .main-text{
+        // font-weight: bold;
+        background-color: rgba(0,0,0,0.2);
+        padding: 20px;
+        border-radius: 1em;
+        text-shadow: black 0 0 5px;
+        box-shadow: 0 0 50px rgba(0,0,0,0.4);
+        margin-bottom: 0 !important;
+    }
+}
+
+.invisible-node {
+    opacity: 0;
+}
+
+.home-mg-iframe {
+    margin-top: -83px;
+}
+
+.border-10{
+    border-radius: 10px;
+}
+
+/*********** Side menu ***********/
+
+.side-menu {
+    position: fixed;
+    width: 30px;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    top: calc(50% - 250px);
+    left: calc(100% - 60px);
+    border: 0;
+    z-index: 9999;
+    opacity: 0;
+    a:hover {
+        text-decoration: none !important;
+    }
+    span{
+        color: $secondary;
+        font-size: 2em;
+    }
+}
+
+.side-menu-item {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin: 18px 8px 18px 8px;
+    cursor: pointer;
+    transition: .25s all;
+    vertical-align: middle;
+    border: thin solid $secondary;
+    border-width: 2px;
+    border-radius: 50000px;
+}
+.side-menu-item:hover{
+    background: $secondary;
+
+}
+
+.side-menu-item.active{
+    background: $secondary;
+}
+
+.side-menu>ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+@media (min-width: 992px) {
+    .home-content {
+        height: 100vh;
+        padding: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .home-content {
+
+        h1 {
+            font-size: 60px;
+            line-height: 65px;
+        }
+        p {
+            font-size: 1.4rem;
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .home-content {
+
+        h1 {
+            font-size: 50px;
+            line-height: 60px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 24px;
+        }
+    }
+    .side-menu {
+        display: none;
+    }
+}
