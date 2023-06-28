@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Slider
-permalink: /slider3/
+title: Postpandemia
+permalink: /postpandemia/
 ---
 <div id="page-loader"><span class="preloader-interior"></span></div>
 <div id="fullpage-slider" class="{% if site.branded-header == "PODER" -%}fullpage-slider-iframe{%- endif -%}">
-	{% for third-slide in site.third-slider %}
-		{% capture id %}{{ third-slide.id | remove:'/' | remove:'third-slider' | downcase }}{% endcapture %}
+	{% for fourth-slide in site.fourth-slider %}
+		{% capture id %}{{ fourth-slide.id | remove:'/' | remove:'fourth-slider' | downcase }}{% endcapture %}
 		<div class="section">
 			<div class="container">
 				<div class="row align-items-center">
-					{%- if third-slide.image -%}
+					{%- if fourth-slide.image -%}
 					<div class="col-lg-5 col-md-5 col-sm-12">
-						{{ third-slide.content }}
+						{{ fourth-slide.content }}
 					</div>
 					<div class="col-lg-7 col-md-7 col-sm-12 text-center">
-						<img data-src="{{ site.baseurl }}/assets/img/{{third-slide.image}}" class="img-fluid">
+						<img data-src="{{ site.baseurl }}/assets/img/{{fourth-slide.image}}" class="img-fluid">
 					</div>
               		{%- else -%}
 					<div class="col-lg-12 col-md-12 col-sm-12 text-center">
-						{{ third-slide.content }}
+						{{ fourth-slide.content }}
 					</div>
 					{%- endif -%}
 				</div>
@@ -51,8 +51,8 @@ $(document).ready(function() {
 	});
 
 	var anchors = [
-	{% for third-slide in site.third-slider %}
-	  {% capture id %}{{ third-slide.id | remove:'/' | remove:'third-slider' | downcase }}{% endcapture %}
+	{% for fourth-slide in site.fourth-slider %}
+	  {% capture id %}{{ fourth-slide.id | remove:'/' | remove:'fourth-slider' | downcase }}{% endcapture %}
 	  '{{id}}'{% if forloop.last == false %},{% endif %}
 	{% endfor %}
 	]
