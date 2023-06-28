@@ -38,7 +38,7 @@ bods_url: "/assets/data/owners.csv"
 
 graph:
   # The name of your graphic
-  - title: "261M DE DOSIS"
+  - title: "282M DE DOSIS"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
