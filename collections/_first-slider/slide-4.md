@@ -3,10 +3,6 @@ title: First Slide
 image: precio.png
 ---
 
-# México: produce genéricos compra tratamientos de patente
+# SECRETO CORPORATIVO. PROTEGER A LAS EMPRESAS ANTES QUE A LAS PERSONAS
 
-En noviembre de 2021 Pfizer concedió 35 licencias voluntarias de Paxlovid a través del [Medicines Patent Pool](https://medicinespatentpool.org/). Con este acuerdo, se autoriza la distribución de estos genéricos en 95 países de ingresos medios y bajos. 
-Los países de América Latina en donde se autorizó la distribución del genérico de Paxlovid son: Belice, Bolivia, El Salvador, Guatemala, Haití, Honduras, Nicaragua y Venezuela. Esto significa que el resto de países no podrán adquirir el Principio Activo Farmacéutico (API) para fabricar el producto ni su versión genérica a bajo costo. **Pfizer ha presentado patentes en los países excluidos hasta 2041.**
-Las compañías que producirán el genérico están ubicadas en 12 países y sólo 3 se encuentran en América Latina: Neolpharma (México), Magnachem (República Dominicana) y Nortec Química (Brasil). 
-Aunque **Neolpharma** produce el medicamento genérico en México, la Secretaría de Salud ha tenido que comprar **300.000 cursos de tratamiento de patente** por no estar incluida en los países con licencias voluntarias del MPP. Si tenemos en cuenta que un curso de tratamiento cuesta $ 530 dólares en Estados Unidos, podríamos estar hablando de **159 Millones de Dólares.**
-
+De los [553 acuerdos para adquisición de vacunas](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard){:target="_blank"} de los que tenemos información **sólo 29 publican el precio** de compra acordado de la vacuna. Esta práctica aumenta las desigualdades en el acceso a las vacunas. Los países con mercados más pequeños o que no pueden hacer frente a los altos costos de vacunas y tratamientos se quedan al final de la fila poniendo en peligro la vida de las personas.
