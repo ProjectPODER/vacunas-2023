@@ -1,6 +1,6 @@
 ---
 title: First Slide
-iframe: "https://onodo.org/visualizations/194586/embed/?notitle"
+image: CT-238-23 RESERVA_page-0002.jpg
 ---
 
 # Virus de Opacidad y Falta de Transparencia en Tratamientos
