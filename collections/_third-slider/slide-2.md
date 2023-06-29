@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: desigualdadvacunas.png
+image: Venta de medicamentos orales por grupo de ingresos.png
 ---
 
 # ¿Quién puede acceder a los antivirales?
