@@ -3,6 +3,6 @@ title: Slide 2
 image: desigualdadvacunas.png
 ---
 
-# LA INDUSTRIA FARMACÉUTICA ESTÁ CONCENTRADA
+# Antivirales acaparados por los países de ingresos alto
 
-Esta industria funciona prácticamente como un monopolio. Los 20 laboratorios más grandes a nivel mundial concentran el 60% de las ventas globales de la industria farmacéutica. Estas empresas tienen el poder para influenciar la política global de salud poniendo sus ganancias por sobre la vida de las personas. Mientras en los [países de ingresos altos y medio-altos más del 70% de la población ha sido vacunada, en los países de ingresos bajos esa cifra apenas supera el 15%](https://ourworldindata.org/coronavirus#explore-the-global-situation){:target="_blank"}. Con respecto a los nuevos tratamientos, [Pfizer hasta finales de marzo](https://s28.q4cdn.com/781576035/files/doc_financials/2022/q1/PFE-USQ_Transcript_2022-05-03.pdf){:target="_blank"} había logrado producir 8 millones de tratamientos de su antiviral Paxlovid, casi la totalidad de los envíos fueron para su uso en Estados Unidos, Canadá, Japón, algunos países de la Unión Europea, Corea del Sur, Israel, Australia y el Reino Unido, todos países de ingresos altos.
+Igual que ocurrió con las vacunas, los antivirales orales están acaparados por los países de altos ingresos, limitando la posibilidad de acceso para los países de ingresos medios y bajos en donde se tienen las tasas más bajas de vacunación. [El 70.31% de las ventas de antivirales han ido a países de Ingresos altos y sólo el 2.17% han ido a países de ingresos medios bajos.](https://launchandscalefaster.org/covid-19/therapeutics)
