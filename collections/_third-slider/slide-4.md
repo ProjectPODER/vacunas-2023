@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: precio.png
+image: mapapaxlovid.jpeg
 ---
 
 # México produce genéricos compra tratamientos de patente
