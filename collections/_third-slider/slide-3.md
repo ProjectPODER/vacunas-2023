@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: accionesempresas.png
+image: antiviralporingreso.png
 ---
 
 # Dos terceras partes de antivirales a países ricos
