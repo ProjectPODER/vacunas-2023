@@ -1,8 +1,8 @@
 ---
 title: First Slide
-iframe: "https://onodo.org/visualizations/194586/embed/?notitle"
+iframe: PVA.png
 ---
 
-# QUIENES GANAN CON LAS VACUNAS
+# Las vacunas de la gente
 
-La información sobre beneficiarios reales de las empresas es escasa, conseguimos información de los inversionistas de 14 empresas que producen vacunas. La mayoría de sus inversionistas son administradoras de fondos de inversión de capital privado, también fondos de inversión de capital público y administradoras de fondos de pensiones. De los inversionistas que tienen inversiones en más de 3 empresas farmacéuticas 20 invierten en AstraZeneca y en Johnson&Johnson, 17 en Pfizer, 14 en Novavax y 12 en CanSino. **Norges Bank Investment Management** y **The Vanguard Group, Inc.** invierten en 11 de las 14 empresas farmacéuticas que analizamos, **Blackrock** en 10, **State Street Global Advisors, Inc.** y **Geode Capital en 7**. [Blacrock](https://poderlatam.org/project/conoceablackrock/){:target="_blank"} y The Vanguard Group son los fondos de inversión más grandes a nivel global.
+La coalición People’s Vaccine Aliance que aglutina a más de 100 organizaciones y redes, apoyada por expertos en salud pública, activistas, jefes de estado y premios nobel ha trabajado mancomunadamente para lograr el acceso universal a las vacunas solicitando entre otras cosas la liberación de las patentes para las vacunas y medicamentos contra la COVID-19. A pesar de este trabajo la aprobación en la OMC de la Exención de los  Aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio (ADPIC) [llegó tardíamente y con menor protección que la propuesta originalmente](https://peoplesvaccine.org/resources/media-releases/wto-reaction-2022/).
