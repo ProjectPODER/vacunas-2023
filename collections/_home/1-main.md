@@ -21,7 +21,6 @@ La industria farmacéutica global y en México ha utilizado diferentes mecanismo
 [Pastillas exclusivas](/vacunas-2023/antivirales)
 [Post-pandemia](/vacunas-2023/postpandemia)
 [Farmacéuticas](/vacunas-2023/industria-farmaceutica)
-[Ruta de las vacuna$](/vacunas-2023/ruta-de-las-vacunas)
 [Dosis de Opacidad](/vacunas-2023/contratos-y-beneficiarias)
 
 
