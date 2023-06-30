@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: CT-238-23 RESERVA_page-0002.jpg
+image: reserva de informacionpaxlovid.png
 ---
 
 # Virus de Opacidad y Falta de Transparencia en Tratamientos
