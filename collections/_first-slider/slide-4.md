@@ -1,8 +1,8 @@
 ---
 title: First Slide
-image: precio.png
+image: PUBLICA EL PRECIO.png
 ---
 
 # SECRETO CORPORATIVO. PROTEGER A LAS EMPRESAS ANTES QUE A LAS PERSONAS
 
-De los [553 acuerdos para adquisición de vacunas](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard){:target="_blank"} de los que tenemos información **sólo 29 publican el precio** de compra acordado de la vacuna. Esta práctica aumenta las desigualdades en el acceso a las vacunas. Los países con mercados más pequeños o que no pueden hacer frente a los altos costos de vacunas y tratamientos se quedan al final de la fila poniendo en peligro la vida de las personas.
+De las **11 vacunas que están en la lista de uso de emergencia de la OMS**, el [COVID-19 vaccine market dashboard de UNICEF](https://www.unicef.org/supply/covid-19-market-dashboard) tiene información de **518 acuerdos para adquisición de esas vacunas vacunas**. De esos acuerdos **sólo 26 publican el precio de compra** acordado por las vacunas. Esta práctica ha aumentado las desigualdades en el acceso a las vacunas y la presión por parte de las farmacéuticas a los países para aceptar cláusulas de confidencialidad que van en contra de la legislación de los países. Los países con mercados más pequeños o que no pueden hacer frente a los altos costos de vacunas y tratamientos se quedan al final de la fila poniendo en peligro la vida de las personas.
