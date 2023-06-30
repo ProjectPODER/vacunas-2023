@@ -26,42 +26,27 @@ El proyecto utiliza el sistema [Tower Builder](https://towerbuilder.readthedocs.
 
 **El Negocio de las Vacunas. Balance post-pandemia**
 
-Investigación: Daniel Castrejón, Diana Silva y Samantha Camacho
-Cartografía: Samantha Camacho
-
-Desarrollo: Marisol Carrillo
-
-Periodismo: Ricardo Balderas
-
-Diseño editorial e ilustración: Adrián Sánchez Martínez
-
-Redes sociales: Mariela Álvarez Alatriste
-
-Comunicación Externa: Paulina Soto
-
-Dirección del Proyecto: María Julieta Lamberti
-
-Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
+- Investigación: Daniel Castrejón, Diana Silva y Samantha Camacho
+- Cartografía: Samantha Camacho
+- Desarrollo: Marisol Carrillo
+- Periodismo: Ricardo Balderas
+- Diseño editorial e ilustración: Adrián Sánchez Martínez
+- Redes sociales: Mariela Álvarez Alatriste
+- Comunicación Externa: Paulina Soto
+- Dirección del Proyecto: María Julieta Lamberti
+- Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
 
 
 
 
 **El Negocio de las vacuna$**
 
-Investigación: Daniel Castrejón, Diana Silva, María Julieta Lamberti, Samantha Camacho y Salma Valdes
-
-Análisis de datos: Queletzú Aspra
-
-Cartografía: Samantha Camacho y Queletzú Aspra
-
-Desarrollo: Marisol Carrillo
-
-Diseño editorial e ilustración: Adrián Sánchez Martínez
-
-Redes sociales: Mariela Álvarez Alatriste
-
-Comunicación Externa: Miguel Soto
-
-Dirección del Proyecto: María Julieta Lamberti
-
-Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
+- Investigación: Daniel Castrejón, Diana Silva, María Julieta Lamberti, Samantha Camacho y Salma Valdes
+- Análisis de datos: Queletzú Aspra
+- Cartografía: Samantha Camacho y Queletzú Aspra
+- Desarrollo: Marisol Carrillo
+- Diseño editorial e ilustración: Adrián Sánchez Martínez
+- Redes sociales: Mariela Álvarez Alatriste
+- Comunicación Externa: Miguel Soto
+- Dirección del Proyecto: María Julieta Lamberti
+- Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
