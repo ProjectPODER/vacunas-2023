@@ -18,7 +18,7 @@ media-left: false
 {:.main-text}
 La industria farmacéutica global y en México ha utilizado diferentes mecanismos para influenciar la toma de decisiones sobre la pandemia. Las empresas ganan a costa de la vida y la salud. Te mostramos quiénes son y como han aumentado sus ingresos las empresas que producen vacunas y tratamientos contra COVID-19.
 
-[Antivirales](/vacunas-2023/antivirales)
+[Pastillas exclusivas](/vacunas-2023/antivirales)
 [Post-pandemia](/vacunas-2023/postpandemia)
 [Farmacéuticas](/vacunas-2023/industria-farmaceutica)
 [Ruta de las vacuna$](/vacunas-2023/ruta-de-las-vacunas)
