@@ -1,6 +1,6 @@
 ---
 title: First Slide
-iframe: PVA.png
+image: PVA.png
 ---
 
 # Las vacunas de la gente

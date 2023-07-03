@@ -4,7 +4,7 @@ title: Ruta de las vacunas
 image: /la-ruta-de-las-vacunas/
 ---
 
-# La ruta de las vacunas
+# La ruta de las vacuna$
 
 La Ruta de las Vacuna$ (2023) presenta la distribución mundial de las 9 vacunas contra la COVID-19 de aplicación en
 México, desde el punto de producción hacia los países que concretaron acuerdos de compra con las farmacéuticas. Estas
