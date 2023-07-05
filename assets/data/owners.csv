@@ -13,9 +13,9 @@ Janssen Pharmaceutica,empresa,,
 Johnson & Johnson,empresa,Janssen Pharmaceutica,parent
 Gavi Alliance,empresa,,
 Cyrus Poonawalla Group,empresa,Poonawalla Investments & Industries Pvt. Ltd.,parent
-Cyrus Poonawalla Group,empresa,,
-CENTRO DE INGENIERIA GENETICA Y BIOTECNOLOGIA (CIGB),empresa,,
-Limited Liability Company Human Vaccine,empresa,Fondo Ruso de Inversión Directa,parent
+Centro de Ingenieria Genetica y Biotecnología,empresa,,
+Limited Liability Company Human Vaccine,empresa,,
+Fondo Ruso de Inversión Directa, empresa,Limited Liability Company Human Vaccine, parent 
 Dongxu Qiu,persona,CanSino Biologics Inc.,shareholder
 Tao Zhu,persona,CanSino Biologics Inc.,shareholder
 Xuefeng Yu,persona,CanSino Biologics Inc.,shareholder
