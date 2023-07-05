@@ -32,7 +32,7 @@ El proyecto utiliza el sistema [Tower Builder](https://towerbuilder.readthedocs.
 - Periodismo: Ricardo Balderas
 - Diseño editorial e ilustración: Adrián Sánchez Martínez
 - Redes sociales: Mariela Álvarez Alatriste
-- Comunicación Externa: Paulina Soto
+- Comunicación Externa: Paulina Souza
 - Dirección del Proyecto: María Julieta Lamberti
 - Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
 
