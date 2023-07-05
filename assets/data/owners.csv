@@ -24,18 +24,18 @@ Xuefeng Yu,persona,CanSino Biologics Inc.,shareholder
 Huihua Mao,persona,CanSino Biologics Inc.,shareholder
 Morgan Stanley,empresa,CanSino Biologics Inc.,shareholder
 Capital Research and Management Company,empresa,CanSino Biologics Inc.,shareholder
-"The Capital Group Companies, Inc.",empresa,CanSino Biologics Inc.,shareholder
+The Capital Group Companies, Inc.,empresa,CanSino Biologics Inc.,shareholder
 JPMorgan Chase & Co.,empresa,CanSino Biologics Inc.,shareholder
-"BlackRock, Inc.",empresa,CanSino Biologics Inc.,shareholder
+BlackRock, Inc.,empresa,CanSino Biologics Inc.,shareholder
 Citigroup Inc.,empresa,CanSino Biologics Inc.,shareholder
 Shou Bai Chao,persona,CanSino Biologics Inc.,shareholder
-"Qiming Corporate GP IV, Ltd.",empresa,CanSino Biologics Inc.,shareholder
-"Qiming GP IV, L.P.",empresa,CanSino Biologics Inc.,shareholder
-"Qiming Venture Partners IV, L.P.",empresa,CanSino Biologics Inc.,shareholder
+Qiming Corporate GP IV, Ltd.,empresa,CanSino Biologics Inc.,shareholder
+Qiming GP IV, L.P.,empresa,CanSino Biologics Inc.,shareholder
+Qiming Venture Partners IV, L.P.,empresa,CanSino Biologics Inc.,shareholder
 QM29 Limited,empresa,CanSino Biologics Inc.,shareholder
 Shou Bai Chao (acciones A),empresa,CanSino Biologics Inc.,shareholder
 Tianjin Qianyi Enterprise Mgmt Partnership Enterprise (Limited Partnership),empresa,CanSino Biologics Inc.,shareholder
-"The Vanguard Group, Inc.",empresa,CanSino Biologics Inc.,shareholder
+The Vanguard Group, Inc.,empresa,CanSino Biologics Inc.,shareholder
 Tianjin Qianrui Enterprise Mgmt Partnership Enterprise (Limited Partnership),empresa,CanSino Biologics Inc.,shareholder
 SDIC Innovation Investment Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
 China Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
@@ -51,7 +51,7 @@ China Southern Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,sharehol
 Suzhou Qiyuan Equity Investment Management Partnership Enterprise (Limited Partn,empresa,CanSino Biologics Inc.,shareholder
 Yinhua Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
 E Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-"Zhong Ou Fund Management Co., Ltd",empresa,CanSino Biologics Inc.,shareholder
+Zhong Ou Fund Management Co., Ltd,empresa,CanSino Biologics Inc.,shareholder
 Bosera Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
 Guotai Asset Mgmt Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
 Harvest Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
@@ -68,10 +68,10 @@ Northern Trust Global Investments,empresa,CanSino Biologics Inc.,shareholder
 Tianhong Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
 República de Cuba,gobierno,CENTRO DE INGENIERIA GENETICA Y BIOTECNOLOGIA (CIGB),shareholder
 Federación Rusa,gobierno,Fondo Ruso de Inversión Directa,shareholder
-"The Vanguard Group, Inc.",empresa,Johnson & Johnson,shareholder
-"BlackRock, Inc.",empresa,Johnson & Johnson,shareholder
-"State Street Global Advisors, Inc.",empresa,Johnson & Johnson,shareholder
-"Geode Capital Management, LLC",empresa,Johnson & Johnson,shareholder
+The Vanguard Group, Inc.,empresa,Johnson & Johnson,shareholder
+BlackRock, Inc.,empresa,Johnson & Johnson,shareholder
+State Street Global Advisors, Inc.,empresa,Johnson & Johnson,shareholder
+Geode Capital Management, LLC,empresa,Johnson & Johnson,shareholder
 Northern Trust Global Investments,empresa,Johnson & Johnson,shareholder
 State Farm Mutual Automobile Insurance Co.,empresa,Johnson & Johnson,shareholder
 T. Rowe Price Group Inc.,empresa,Johnson & Johnson,shareholder
@@ -86,7 +86,7 @@ Wells Fargo & Co.,empresa,Johnson & Johnson,shareholder
 Legal & General Investment Management Ltd.,empresa,Johnson & Johnson,shareholder
 JP Morgan Asset Management,empresa,Johnson & Johnson,shareholder
 Columbia Management Investment Advisers LLC,empresa,Johnson & Johnson,shareholder
-"Charles Schwab Investment Management, Inc.",empresa,Johnson & Johnson,shareholder
+Charles Schwab Investment Management, Inc.,empresa,Johnson & Johnson,shareholder
 Eaton Vance Management,empresa,Johnson & Johnson,shareholder
 FMR LLC,empresa,Johnson & Johnson,shareholder
 Deutsche Asset & Wealth Management,empresa,Johnson & Johnson,shareholder
@@ -170,11 +170,11 @@ First Trust Advisors LP,empresa,Johnson & Johnson,shareholder
 Coatue Management LLC,empresa,Moderna,shareholder
 Morgan Stanley,empresa,Moderna,shareholder
 Baillie Gifford & Co,empresa,Moderna,shareholder
-"BlackRock, Inc.",empresa,Moderna,shareholder
-"The Vanguard Group, Inc.",empresa,Moderna,shareholder
+BlackRock, Inc.,empresa,Moderna,shareholder
+The Vanguard Group, Inc.,empresa,Moderna,shareholder
 Flagship Pioneering,empresa,Moderna,shareholder
-"State Street Global Advisors, Inc.",empresa,Moderna,shareholder
-"Geode Capital Management, LLC",empresa,Moderna,shareholder
+State Street Global Advisors, Inc.,empresa,Moderna,shareholder
+Geode Capital Management, LLC,empresa,Moderna,shareholder
 Theleme Partners LLP,empresa,Moderna,shareholder
 Northern Trust Global Investments,empresa,Moderna,shareholder
 Stephane Bancel,persona,Moderna,shareholder
@@ -193,7 +193,7 @@ Manulife Asset Management,empresa,Moderna,shareholder
 UBS Asset Management AG,empresa,Moderna,shareholder
 Invesco Capital Management LLC,empresa,Moderna,shareholder
 Mawer Investment Management Ltd.,empresa,Moderna,shareholder
-"Charles Schwab Investment Management, Inc.",empresa,Moderna,shareholder
+Charles Schwab Investment Management, Inc.,empresa,Moderna,shareholder
 Stephen Hoge,persona,Moderna,shareholder
 Deutsche Asset & Wealth Management,empresa,Moderna,shareholder
 T. Rowe Price Group Inc.,empresa,Moderna,shareholder
@@ -210,13 +210,13 @@ Nikko Asset Management Co. Ltd.,empresa,Moderna,shareholder
 Amundi Asset Management SAS,empresa,Moderna,shareholder
 Caisse de dépôt et placement du Québec,empresa,Moderna,shareholder
 Citigroup Inc.,empresa,Moderna,shareholder
-"The Vanguard Group, Inc.",empresa,Pfizer Inc.,shareholder
-"BlackRock, Inc.",empresa,Pfizer Inc.,shareholder
+The Vanguard Group, Inc.,empresa,Pfizer Inc.,shareholder
+BlackRock, Inc.,empresa,Pfizer Inc.,shareholder
 Capital Research and Management Company,empresa,Pfizer Inc.,shareholder
-"State Street Global Advisors, Inc.",empresa,Pfizer Inc.,shareholder
+State Street Global Advisors, Inc.,empresa,Pfizer Inc.,shareholder
 Wellington Management Group LLP,empresa,Pfizer Inc.,shareholder
-"Geode Capital Management, LLC",empresa,Pfizer Inc.,shareholder
-"Charles Schwab Investment Management, Inc.",empresa,Pfizer Inc.,shareholder
+Geode Capital Management, LLC,empresa,Pfizer Inc.,shareholder
+Charles Schwab Investment Management, Inc.,empresa,Pfizer Inc.,shareholder
 Northern Trust Global Investments,empresa,Pfizer Inc.,shareholder
 Norges Bank Investment Management,empresa,Pfizer Inc.,shareholder
 State Farm Mutual Automobile Insurance Co.,empresa,Pfizer Inc.,shareholder
@@ -252,22 +252,14 @@ Renaissance Technologies LLC,empresa,Pfizer Inc.,shareholder
 AllianceBernstein LP,empresa,Pfizer Inc.,shareholder
 Principal Global Investors LLC,empresa,Pfizer Inc.,shareholder
 Jensen Investment Management Inc.,empresa,Pfizer Inc.,shareholder
-"Federated Hermes, Inc.",empresa,Pfizer Inc.,shareholder
+Federated Hermes, Inc.,empresa,Pfizer Inc.,shareholder
 Cyrus Poonawalla Group,empresa,Poonawalla Investments & Industries Pvt. Ltd.,shareholder
 Cyrus Poonawalla,persona,Cyrus Poonawalla Group,shareholder
 Adar Poonawalla,persona,Cyrus Poonawalla Group,shareholder
-Julio Anibal Scardigli Irazabal,persona,Drugmex México,shareholder
-Oswaldo Ramírez Garza,persona,Drugmex México,shareholder
-Oscar Daniel Andrés Grasso,persona,Drugmex México,shareholder
-Rallys Eduardo Pliauzer,persona,Drugmex México,shareholder
-Juan Carlos Flores Partida,persona,Drugmex México,shareholder
-Alejandro Miguel Delaney,persona,Drugmex México,shareholder
-Cayel S.A.,persona,Drugmex México,shareholder
-"Productos Científicos, S.A. de C.V. (Carnot Laboratorios)",empresa,Drugmex México,shareholder
 Saif Partners IV,empresa,Sinovac Biotech Ltd.,shareholder
 Yin Weidong,persona,Sinovac Biotech Ltd.,shareholder
-"Vivo Capital, LLC",empresa,Sinovac Biotech Ltd.,shareholder
-"Prime Success, L.P.",empresa,Sinovac Biotech Ltd.,shareholder
+Vivo Capital, LLC,empresa,Sinovac Biotech Ltd.,shareholder
+Prime Success, L.P.,empresa,Sinovac Biotech Ltd.,shareholder
 CDH Utopia Limited,empresa,Sinovac Biotech Ltd.,shareholder
 1Globe Capital LLC.,empresa,Sinovac Biotech Ltd.,shareholder
 Yuk Lam Lo,persona,Sinovac Biotech Ltd.,shareholder
@@ -279,7 +271,7 @@ Ming Xia,persona,Sinovac Biotech Ltd.,shareholder
 Xiaomei Yin,persona,Sinovac Biotech Ltd.,shareholder
 Qiang Gao,persona,Sinovac Biotech Ltd.,shareholder
 Jing Li,persona,Sinovac Biotech Ltd.,shareholder
-"BlackRock, Inc.",empresa,AstraZeneca PLC,shareholder
+BlackRock, Inc.,empresa,AstraZeneca PLC,shareholder
 Capital Research and Management Company,empresa,AstraZeneca PLC,shareholder
 Vanguard Group Inc.,empresa,AstraZeneca PLC,shareholder
 Wellington Management Group LLP,empresa,AstraZeneca PLC,shareholder
@@ -376,17 +368,6 @@ PFA Pension forsikringsA/S,empresa,AstraZeneca PLC,shareholder
 Nomura Holdings Inc.,empresa,AstraZeneca PLC,shareholder
 Teacher Retirement System of Texas,gobierno,AstraZeneca PLC,shareholder
 Bank Julius Bär & Co. AG,empresa,AstraZeneca PLC,shareholder
-Millennium Management LLC,empresa,BioNTech SE,shareholder
-Gilder Gagnon Howe & Co. LLC,empresa,BioNTech SE,shareholder
-Danske Bank A/S,empresa,BioNTech SE,shareholder
-SEI Investments Co.,empresa,BioNTech SE,shareholder
-Twin Tree Management LP,empresa,BioNTech SE,shareholder
-First Trust Advisors LP,empresa,BioNTech SE,shareholder
-Quinn Opportunity Partners LLC,empresa,BioNTech SE,shareholder
-Helmut W. Jeggle,persona,BioNTech SE,shareholder
-Independent Supervisory Board Chairman,empresa,BioNTech SE,shareholder
-Goldman Sachs Group Inc.,empresa,BioNTech SE,shareholder
-Boston Common Asset Management LLC,empresa,BioNTech SE,shareholder
 First Trust Advisors LP,empresa,Moderna,shareholder
 Parnassus Investments LLC,empresa,Moderna,shareholder
 The Toronto-Dominion Bank,empresa,Moderna,shareholder
@@ -430,7 +411,7 @@ PNC Financial Services Group Inc.,empresa,Pfizer Inc.,shareholder
 Invesco Capital Management LLC,empresa,Pfizer Inc.,shareholder
 Royal Bank of Canada,empresa,Pfizer Inc.,shareholder
 AQR Capital Management LLC,empresa,Pfizer Inc.,shareholder
-"Raymond James Financial, Inc.",empresa,Pfizer Inc.,shareholder
+Raymond James Financial, Inc.,empresa,Pfizer Inc.,shareholder
 Susquehanna International Group LLP,empresa,Pfizer Inc.,shareholder
 Robert W. Baird & Co. Inc.,empresa,Pfizer Inc.,shareholder
 National Pension Service,empresa,Pfizer Inc.,shareholder
