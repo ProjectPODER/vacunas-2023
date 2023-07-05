@@ -14,29 +14,17 @@ Johnson & Johnson,empresa,Janssen Pharmaceutica,parent
 Gavi Alliance,empresa,,
 Cyrus Poonawalla Group,empresa,Poonawalla Investments & Industries Pvt. Ltd.,parent
 Cyrus Poonawalla Group,empresa,,
-<<<<<<< HEAD
-Centro de Ingenieria Genetica y Biotecnología,empresa,,
-Limited Liability Company Human Vaccine,empresa,,
-Fondo Ruso de Inversión Directa,empresa,Limited Liability Company Human Vaccine,parent
-=======
 CENTRO DE INGENIERIA GENETICA Y BIOTECNOLOGIA (CIGB),empresa,,
 Limited Liability Company Human Vaccine,empresa,Fondo Ruso de Inversión Directa,parent
->>>>>>> 49da227a789e68ff1c954a060a500a048ce7a285
 Dongxu Qiu,persona,CanSino Biologics Inc.,shareholder
 Tao Zhu,persona,CanSino Biologics Inc.,shareholder
 Xuefeng Yu,persona,CanSino Biologics Inc.,shareholder
 Huihua Mao,persona,CanSino Biologics Inc.,shareholder
 Morgan Stanley,empresa,CanSino Biologics Inc.,shareholder
 Capital Research and Management Company,empresa,CanSino Biologics Inc.,shareholder
-<<<<<<< HEAD
-The Capital Group Companies,empresa,CanSino Biologics Inc.,shareholder
-JPMorgan Chase & Co.  Inc.,empresa,CanSino Biologics Inc.,shareholder
-BlackRock  Inc.,empresa,CanSino Biologics Inc.,shareholder
-=======
 The Capital Group Companies Inc.,empresa,CanSino Biologics Inc.,shareholder
 JPMorgan Chase & Co.,empresa,CanSino Biologics Inc.,shareholder
-BlackRock, Inc.,empresa,CanSino Biologics Inc.,shareholder
->>>>>>> 49da227a789e68ff1c954a060a500a048ce7a285
+BlackRock Inc.,empresa,CanSino Biologics Inc.,shareholder
 Citigroup Inc.,empresa,CanSino Biologics Inc.,shareholder
 Shou Bai Chao,persona,CanSino Biologics Inc.,shareholder
 Qiming Corporate GP IV  Ltd.,empresa,CanSino Biologics Inc.,shareholder
