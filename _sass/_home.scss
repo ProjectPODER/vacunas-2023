@@ -13,19 +13,23 @@
     background-size: cover;
     background-color: $blue;
 
-    h1 {
-        font-size: 70px;
-        line-height: 75px;
-        margin-bottom: 2rem;
-        font-weight: bolder;
-    }
-
-    h1,
+    h1, h2,
     p {
         color: $white;
     }
+
     h1 {
+        font-size: 70px;
+        line-height: 75px;
+        font-weight: bolder;
         text-shadow: #222222 6px 5px 1px;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 45px;
+        margin-bottom: 2rem;
+        font-weight: bolder;
+        text-shadow: #222222 3px 2px 1px;
     }
     p {
         font-size: 1.7rem;
