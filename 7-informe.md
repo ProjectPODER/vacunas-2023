@@ -11,7 +11,7 @@ En esta investigación actualizamos la información que ofrecimos el año pasado
 
 <!-- Añadir el pdf -->
 <div class="embed-responsive embed-responsive-4by3 mb-4">
-  <iframe class="embed-responsive-item" src="/Vacunas/assets/docs/elnegociodelasvacunas.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="/vacunas-2023/assets/docs/elnegociodelasvacunas2023.pdf"></iframe>
 </div>
 
 
