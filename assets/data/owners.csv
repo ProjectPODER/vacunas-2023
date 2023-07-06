@@ -2,7 +2,7 @@ NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION
 AstraZeneca UK Limited,empresa,,
 AstraZeneca PLC,empresa,AstraZeneca UK Limited,parent
 Serum Institute of India,empresa,,
-Poonawalla Investments & Industries Pvt. Ltd.,empresa,Serum Institute of India,parent
+Cyrus Poonawalla Group,empresa,Serum Institute of India,parent
 Pfizer Export B.V.,empresa,,
 Pfizer Inc.,empresa,Pfizer Export B.V.,parent
 CanSino Biologics Inc.,empresa,,
@@ -12,10 +12,9 @@ Moderna,empresa,,
 Janssen Pharmaceutica,empresa,,
 Johnson & Johnson,empresa,Janssen Pharmaceutica,parent
 Gavi Alliance,empresa,,
-Cyrus Poonawalla Group,empresa,Poonawalla Investments & Industries Pvt. Ltd.,parent
-Cyrus Poonawalla Group,empresa,,
-CENTRO DE INGENIERIA GENETICA Y BIOTECNOLOGIA (CIGB),empresa,,
-Limited Liability Company Human Vaccine,empresa,Fondo Ruso de Inversión Directa,parent
+Centro de Ingenieria Genetica y Biotecnología,empresa,,
+Limited Liability Company Human Vaccine,empresa,,
+Fondo Ruso de Inversión Directa, empresa,Limited Liability Company Human Vaccine, parent 
 Dongxu Qiu,persona,CanSino Biologics Inc.,shareholder
 Tao Zhu,persona,CanSino Biologics Inc.,shareholder
 Xuefeng Yu,persona,CanSino Biologics Inc.,shareholder
@@ -31,38 +30,6 @@ Qiming Corporate GP IV  Ltd.,empresa,CanSino Biologics Inc.,shareholder
 Qiming GP IV  L.P.,empresa,CanSino Biologics Inc.,shareholder
 Qiming Venture Partners IV  L.P.,empresa,CanSino Biologics Inc.,shareholder
 QM29 Limited,empresa,CanSino Biologics Inc.,shareholder
-Shou Bai Chao (acciones A),empresa,CanSino Biologics Inc.,shareholder
-Tianjin Qianyi Enterprise Mgmt Partnership Enterprise (Limited Partnership),empresa,CanSino Biologics Inc.,shareholder
-The Vanguard Group Inc.,empresa,CanSino Biologics Inc.,shareholder
-SDIC Innovation Investment Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-China Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Shenzhen Dachen Caizhi Venture Capital Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Shanghai Liyi Investment Management Partnership (Limited Partnership),empresa,CanSino Biologics Inc.,shareholder
-Tianjin QIanzhi Enterprise Mgmt Partnership Enterprise (Limited Partnership),empresa,CanSino Biologics Inc.,shareholder
-Suzhou Huyanglin Venture Capital Center (Limited Partnership),empresa,CanSino Biologics Inc.,shareholder
-China Merchants Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Caisse de dépôt et placement du Québec,empresa,CanSino Biologics Inc.,shareholder
-Dimensional Fund Advisors LP,empresa,CanSino Biologics Inc.,shareholder
-Tianan Life Insurance Company Limited of China,empresa,CanSino Biologics Inc.,shareholder
-China Southern Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Suzhou Qiyuan Equity Investment Management Partnership Enterprise (Limited Partn,empresa,CanSino Biologics Inc.,shareholder
-Yinhua Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-E Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Zhong Ou Fund Management Co.  Ltd,empresa,CanSino Biologics Inc.,shareholder
-Bosera Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Guotai Asset Mgmt Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Harvest Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Zhongqi Shao,persona,CanSino Biologics Inc.,shareholder
-Bank of Communications Schroder Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-ICBC Credit Suisse Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-AXA SPDB Investment Managers Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-China Universal Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Andra AP-fonden,empresa,CanSino Biologics Inc.,shareholder
-Tobam SAS,empresa,CanSino Biologics Inc.,shareholder
-GF Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Huatai-PineBridge Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
-Northern Trust Global Investments,empresa,CanSino Biologics Inc.,shareholder
-Tianhong Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder
 República de Cuba,gobierno,Centro de Ingenieria Genetica y Biotecnología,shareholder
 Federación Rusa,gobierno,Fondo Ruso de Inversión Directa,shareholder
 The Vanguard Group  Inc.,empresa,Johnson & Johnson,shareholder
@@ -80,90 +47,6 @@ BNY Asset Management,empresa,Johnson & Johnson,shareholder
 UBS Asset Management AG,empresa,Johnson & Johnson,shareholder
 Massachusetts Financial Services Company,empresa,Johnson & Johnson,shareholder
 Wells Fargo & Co.,empresa,Johnson & Johnson,shareholder
-Legal & General Investment Management Ltd.,empresa,Johnson & Johnson,shareholder
-JP Morgan Asset Management,empresa,Johnson & Johnson,shareholder
-Columbia Management Investment Advisers LLC,empresa,Johnson & Johnson,shareholder
-Charles Schwab Investment Management  Inc.,empresa,Johnson & Johnson,shareholder
-Eaton Vance Management,empresa,Johnson & Johnson,shareholder
-FMR LLC,empresa,Johnson & Johnson,shareholder
-Deutsche Asset & Wealth Management,empresa,Johnson & Johnson,shareholder
-JPMorgan Chase & Co.,empresa,Johnson & Johnson,shareholder
-Robert Wood Johnson Foundation Endowment arm,empresa,Johnson & Johnson,shareholder
-California Public Employees' Retirement System,empresa,Johnson & Johnson,shareholder
-Bank of America Corp.,empresa,Johnson & Johnson,shareholder
-Managed Account Advisors LLC,empresa,Johnson & Johnson,shareholder
-Goldman Sachs Asset Management LP,empresa,Johnson & Johnson,shareholder
-Franklin Resources Inc.,empresa,Johnson & Johnson,shareholder
-TIAA,empresa,Johnson & Johnson,shareholder
-Schweizerische Nationalbank,empresa,Johnson & Johnson,shareholder
-Boston Partners Global Investors Inc.,empresa,Johnson & Johnson,shareholder
-Invesco Ltd.,empresa,Johnson & Johnson,shareholder
-Lazard Asset Management LLC,empresa,Johnson & Johnson,shareholder
-Merrill Lynch Pierce Fenner & Smith Inc.,empresa,Johnson & Johnson,shareholder
-Dimensional Fund Advisors LP,empresa,Johnson & Johnson,shareholder
-Nikko Asset Management Co. Ltd.,empresa,Johnson & Johnson,shareholder
-AllianceBernstein LP,empresa,Johnson & Johnson,shareholder
-Nordea Investment Management AB,empresa,Johnson & Johnson,shareholder
-HSBC Global Asset Management (UK) Ltd.,empresa,Johnson & Johnson,shareholder
-American Century Investment Management Inc,empresa,Johnson & Johnson,shareholder
-Fiera Capital Corporation,empresa,Johnson & Johnson,shareholder
-Amundi Asset Management SAS,empresa,Johnson & Johnson,shareholder
-ClearBridge Investments LLC,empresa,Johnson & Johnson,shareholder
-Barclays PLC,empresa,Johnson & Johnson,shareholder
-Fisher Asset Management LLC,empresa,Johnson & Johnson,shareholder
-Raymond James Financial  Inc.,empresa,Johnson & Johnson,shareholder
-Union Asset Management Holding AG,empresa,Johnson & Johnson,shareholder
-Neuberger Berman Investment Advisers LLC,empresa,Johnson & Johnson,shareholder
-PNC Financial Services Group Inc.,empresa,Johnson & Johnson,shareholder
-BMO Asset Management Corp.,empresa,Johnson & Johnson,shareholder
-Flossbach & Von Storch Vermoegensmanagement AG,empresa,Johnson & Johnson,shareholder
-Royal Bank of Canada,empresa,Johnson & Johnson,shareholder
-Ninety One UK Ltd.,empresa,Johnson & Johnson,shareholder
-RBC Dominion Securities Inc.,empresa,Johnson & Johnson,shareholder
-Barclays Bank PLC,empresa,Johnson & Johnson,shareholder
-New York State Common Retirement Fund,empresa,Johnson & Johnson,shareholder
-Robert W. Baird & Co. Inc.,empresa,Johnson & Johnson,shareholder
-Strategic Advisers LLC,empresa,Johnson & Johnson,shareholder
-Rhumbline Advisers Ltd Partnership,empresa,Johnson & Johnson,shareholder
-Ensign Peak Advisors Inc.,empresa,Johnson & Johnson,shareholder
-TIAA,empresa,Johnson & Johnson,shareholder
-Fidelity International Ltd.,empresa,Johnson & Johnson,shareholder
-Manulife Asset Management,empresa,Johnson & Johnson,shareholder
-Walter Scott & Partners Ltd.,empresa,Johnson & Johnson,shareholder
-Mawer Investment Management Ltd.,empresa,Johnson & Johnson,shareholder
-Stichting Pensioenfonds ABP,empresa,Johnson & Johnson,shareholder
-Schroder Investment Management Ltd.,empresa,Johnson & Johnson,shareholder
-Stifel Asset Management Corp.,empresa,Johnson & Johnson,shareholder
-Deka Investment GmbH,empresa,Johnson & Johnson,shareholder
-HighTower Advisors LLC,empresa,Johnson & Johnson,shareholder
-PGIM Inc.,empresa,Johnson & Johnson,shareholder
-National Pension Service,empresa,Johnson & Johnson,shareholder
-Bridgewater Associates LP,empresa,Johnson & Johnson,shareholder
-Credit Suisse Asset Management (Switzerland) Ltd.,empresa,Johnson & Johnson,shareholder
-Sanders Capital LLC,empresa,Johnson & Johnson,shareholder
-Credit Suisse Group AG,empresa,Johnson & Johnson,shareholder
-Mackenzie Financial Corp.,empresa,Johnson & Johnson,shareholder
-Macquarie Investment Management Business Trust,empresa,Johnson & Johnson,shareholder
-GWL Investment Management Ltd.,empresa,Johnson & Johnson,shareholder
-1832 Asset Management L.P.,empresa,Johnson & Johnson,shareholder
-RBC Global Asset Management Inc.,empresa,Johnson & Johnson,shareholder
-Principal Global Investors LLC,empresa,Johnson & Johnson,shareholder
-Envestnet Asset Management Inc.,empresa,Johnson & Johnson,shareholder
-Jensen Investment Management Inc.,empresa,Johnson & Johnson,shareholder
-U.S. Bancorp Asset Management Inc.,empresa,Johnson & Johnson,shareholder
-Sjunde AP-fonden,empresa,Johnson & Johnson,shareholder
-Two Sigma Advisers LP,empresa,Johnson & Johnson,shareholder
-TD Asset Management Inc.,empresa,Johnson & Johnson,shareholder
-New York State Teachers' Retirement System,empresa,Johnson & Johnson,shareholder
-Grantham Mayo Van Otterloo & Co. LLC,empresa,Johnson & Johnson,shareholder
-Invesco Capital Management LLC,empresa,Johnson & Johnson,shareholder
-State Board of Administration of Florida,empresa,Johnson & Johnson,shareholder
-Victory Capital Management Inc.,empresa,Johnson & Johnson,shareholder
-London Co. of Virginia LLC,empresa,Johnson & Johnson,shareholder
-BB&T Trust,empresa,Johnson & Johnson,shareholder
-Caisse de dépôt et placement du Québec,empresa,Johnson & Johnson,shareholder
-Raymond James Financial Services Advisors Inc.,empresa,Johnson & Johnson,shareholder
-First Trust Advisors LP,empresa,Johnson & Johnson,shareholder
 Coatue Management LLC,empresa,Moderna,shareholder
 Morgan Stanley,empresa,Moderna,shareholder
 Baillie Gifford & Co,empresa,Moderna,shareholder
@@ -178,35 +61,7 @@ Stephane Bancel,persona,Moderna,shareholder
 Robert S. Langer Jr.,persona,Moderna,shareholder
 Capital Research and Management Company,empresa,Moderna,shareholder
 Wellington Management Group LLP,empresa,Moderna,shareholder
-FMR LLC,empresa,Moderna,shareholder
 Norges Bank Investment Management,empresa,Moderna,shareholder
-Banque Pictet & Cie SA,empresa,Moderna,shareholder
-Dimensional Fund Advisors LP,empresa,Moderna,shareholder
-BNY Asset Management,empresa,Moderna,shareholder
-Goldman Sachs Asset Management LP,empresa,Moderna,shareholder
-Legal & General Investment Management Ltd.,empresa,Moderna,shareholder
-Noubar B. Afeyan,persona,Moderna,shareholder
-Manulife Asset Management,empresa,Moderna,shareholder
-UBS Asset Management AG,empresa,Moderna,shareholder
-Invesco Capital Management LLC,empresa,Moderna,shareholder
-Mawer Investment Management Ltd.,empresa,Moderna,shareholder
-Charles Schwab Investment Management  Inc.,empresa,Moderna,shareholder
-Stephen Hoge,persona,Moderna,shareholder
-Deutsche Asset & Wealth Management,empresa,Moderna,shareholder
-T. Rowe Price Group Inc.,empresa,Moderna,shareholder
-Bellevue Asset Management AG,empresa,Moderna,shareholder
-Lone Pine Capital LLC,empresa,Moderna,shareholder
-JP Morgan Asset Management,empresa,Moderna,shareholder
-Eaton Vance Management,empresa,Moderna,shareholder
-Pictet Asset Management Ltd.,empresa,Moderna,shareholder
-Schweizerische Nationalbank,empresa,Moderna,shareholder
-Jane Street Group LLC,empresa,Moderna,shareholder
-Mitsubishi UFJ Trust & Banking Corp.,empresa,Moderna,shareholder
-TIAA,empresa,Moderna,shareholder
-Nikko Asset Management Co. Ltd.,empresa,Moderna,shareholder
-Amundi Asset Management SAS,empresa,Moderna,shareholder
-Caisse de dépôt et placement du Québec,empresa,Moderna,shareholder
-Citigroup Inc.,empresa,Moderna,shareholder
 The Vanguard Group  Inc.,empresa,Pfizer Inc.,shareholder
 BlackRock Inc.,empresa,Pfizer Inc.,shareholder
 Capital Research and Management Company,empresa,Pfizer Inc.,shareholder
@@ -222,34 +77,6 @@ Morgan Stanley,empresa,Pfizer Inc.,shareholder
 BNY Asset Management,empresa,Pfizer Inc.,shareholder
 Dimensional Fund Advisors LP,empresa,Pfizer Inc.,shareholder
 UBS Asset Management AG,empresa,Pfizer Inc.,shareholder
-Legal & General Investment Management Ltd.,empresa,Pfizer Inc.,shareholder
-Deutsche Asset & Wealth Management,empresa,Pfizer Inc.,shareholder
-T. Rowe Price Group Inc.,empresa,Pfizer Inc.,shareholder
-Amundi Asset Management SAS,empresa,Pfizer Inc.,shareholder
-Eaton Vance Management,empresa,Pfizer Inc.,shareholder
-Bank of America Corp.,empresa,Pfizer Inc.,shareholder
-JP Morgan Asset Management,empresa,Pfizer Inc.,shareholder
-Columbia Management Investment Advisers LLC,empresa,Pfizer Inc.,shareholder
-Wells Fargo & Co.,empresa,Pfizer Inc.,shareholder
-Schweizerische Nationalbank,empresa,Pfizer Inc.,shareholder
-Goldman Sachs Asset Management LP,empresa,Pfizer Inc.,shareholder
-Franklin Resources Inc.,empresa,Pfizer Inc.,shareholder
-Merrill Lynch Pierce Fenner & Smith Inc.,empresa,Pfizer Inc.,shareholder
-California Public Employees' Retirement System,empresa,Pfizer Inc.,shareholder
-TIAA,empresa,Pfizer Inc.,shareholder
-Managed Account Advisors LLC,empresa,Pfizer Inc.,shareholder
-LSV Asset Management,empresa,Pfizer Inc.,shareholder
-Nikko Asset Management Co. Ltd.,empresa,Pfizer Inc.,shareholder
-Caisse de dépôt et placement du Québec,empresa,Pfizer Inc.,shareholder
-Neuberger Berman Investment Advisers LLC,empresa,Pfizer Inc.,shareholder
-BMO Asset Management Corp.,empresa,Pfizer Inc.,shareholder
-Stifel Asset Management Corp.,empresa,Pfizer Inc.,shareholder
-ClearBridge Investments LLC,empresa,Pfizer Inc.,shareholder
-Renaissance Technologies LLC,empresa,Pfizer Inc.,shareholder
-AllianceBernstein LP,empresa,Pfizer Inc.,shareholder
-Principal Global Investors LLC,empresa,Pfizer Inc.,shareholder
-Jensen Investment Management Inc.,empresa,Pfizer Inc.,shareholder
-Federated Hermes  Inc.,empresa,Pfizer Inc.,shareholder
 Cyrus Poonawalla,persona,Cyrus Poonawalla Group,shareholder
 Adar Poonawalla,persona,Cyrus Poonawalla Group,shareholder
 Saif Partners IV,empresa,Sinovac Biotech Ltd.,shareholder
@@ -282,196 +109,6 @@ GQG Partners LLC,empresa,AstraZeneca PLC,shareholder
 abrdn PLC,empresa,AstraZeneca PLC,shareholder
 Amundi Asset Management SAS,empresa,AstraZeneca PLC,shareholder
 Schroder Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder
-Royal London Asset Management Ltd.,empresa,AstraZeneca PLC,shareholder
-JP Morgan Asset Management,empresa,AstraZeneca PLC,shareholder
-Columbia Management Investment Advisers LLC,empresa,AstraZeneca PLC,shareholder
-Aviva Investors Global Services Ltd.,empresa,AstraZeneca PLC,shareholder
-BNY Asset Management,empresa,AstraZeneca PLC,shareholder
-Teachers Insurance and Annuity Association-College Retirement Equities Fund,empresa,AstraZeneca PLC,shareholder
-Northern Trust Global Investments,empresa,AstraZeneca PLC,shareholder
-Société Générale SA,empresa,AstraZeneca PLC,shareholder
-HSBC Global Asset Management (UK) Ltd.,empresa,AstraZeneca PLC,shareholder
-Janus Henderson Group PLC,empresa,AstraZeneca PLC,shareholder
-Fidelity International Ltd.,empresa,AstraZeneca PLC,shareholder
-SAFE Investment Co. Ltd.,empresa,AstraZeneca PLC,shareholder
-Barclays Bank PLC,empresa,AstraZeneca PLC,shareholder
-Kuwait Investment Authority,gobierno,AstraZeneca PLC,shareholder
-WCM Investment Management LLC,empresa,AstraZeneca PLC,shareholder
-Rathbones Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder
-M&G Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder
-Jennison Associates LLC,empresa,AstraZeneca PLC,shareholder
-American Century Investment Management Inc,empresa,AstraZeneca PLC,shareholder
-Deutsche Asset & Wealth Management,empresa,AstraZeneca PLC,shareholder
-Geode Capital Management LLC,empresa,AstraZeneca PLC,shareholder
-Invesco Ltd.,empresa,AstraZeneca PLC,shareholder
-Caisse des Dépôts et Consignations,empresa,AstraZeneca PLC,shareholder
-Liontrust Asset Management PLC,empresa,AstraZeneca PLC,shareholder
-PRIMECAP Management Co.,empresa,AstraZeneca PLC,shareholder
-Artisan Partners LP,empresa,AstraZeneca PLC,shareholder
-Deka Investment GmbH,empresa,AstraZeneca PLC,shareholder
-California Public Employees' Retirement System,gobierno,AstraZeneca PLC,shareholder
-Union Asset Management Holding AG,empresa,AstraZeneca PLC,shareholder
-JPMorgan Chase & Co.,empresa,AstraZeneca PLC,shareholder
-GIC Private Ltd.,empresa,AstraZeneca PLC,shareholder
-Dimensional Fund Advisors LP,empresa,AstraZeneca PLC,shareholder
-West Yorkshire Pension Fund,gobierno,AstraZeneca PLC,shareholder
-Causeway Capital Management LLC,empresa,AstraZeneca PLC,shareholder
-Charles Schwab Investment Management Inc.,empresa,AstraZeneca PLC,shareholder
-AXA Investment Managers SA,empresa,AstraZeneca PLC,shareholder
-Natixis SA,empresa,AstraZeneca PLC,shareholder
-Schweizerische Nationalbank,empresa,AstraZeneca PLC,shareholder
-Quilter Cheviot Ltd.,empresa,AstraZeneca PLC,shareholder
-Investec Wealth & Investment Ltd.,empresa,AstraZeneca PLC,shareholder
-DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main,empresa,AstraZeneca PLC,shareholder
-N.F.U. Mutual Unit Managers Ltd.,empresa,AstraZeneca PLC,shareholder
-Employees Provident Fund of Malaysia,gobierno,AstraZeneca PLC,shareholder
-Putnam LLC,empresa,AstraZeneca PLC,shareholder
-Nordea Investment Management AB,empresa,AstraZeneca PLC,shareholder
-Franklin Resources Inc.,empresa,AstraZeneca PLC,shareholder
-Artemis Investment Management LLP,empresa,AstraZeneca PLC,shareholder
-Abu Dhabi Investment Authority,gobierno,AstraZeneca PLC,shareholder
-Schroder Investment Management North America Inc.,empresa,AstraZeneca PLC,shareholder
-Credit Suisse Group AG,empresa,AstraZeneca PLC,shareholder
-Charles Stanley & Co. Ltd.,empresa,AstraZeneca PLC,shareholder
-Border To Coast Pensions Partnership Ltd.,empresa,AstraZeneca PLC,shareholder
-Smith & Williamson Investment Management LLP,empresa,AstraZeneca PLC,shareholder
-Baillie Gifford & Co.,empresa,AstraZeneca PLC,shareholder
-Thornburg Investment Management Inc.,empresa,AstraZeneca PLC,shareholder
-National Pension Service,gobierno,AstraZeneca PLC,shareholder
-Aegon Asset Management UK Plc,empresa,AstraZeneca PLC,shareholder
-SPP Fonder AB,empresa,AstraZeneca PLC,shareholder
-Principal Global Investors LLC,empresa,AstraZeneca PLC,shareholder
-BNP Paribas SA,empresa,AstraZeneca PLC,shareholder
-Swedbank Robur Fonder AB,empresa,AstraZeneca PLC,shareholder
-Sumitomo Mitsui DS Asset Management Co. Ltd.,empresa,AstraZeneca PLC,shareholder
-Cecabank SA,empresa,AstraZeneca PLC,shareholder
-Pictet Asset Management Ltd.,empresa,AstraZeneca PLC,shareholder
-Royal Bank of Canada,empresa,AstraZeneca PLC,shareholder
-Merrill Lynch Pierce Fenner & Smith Inc.,empresa,AstraZeneca PLC,shareholder
-Massachusetts Financial Services Company,empresa,AstraZeneca PLC,shareholder
-Jupiter Fund Management PLC,empresa,AstraZeneca PLC,shareholder
-Sumitomo Mitsui Financial Group Inc.,empresa,AstraZeneca PLC,shareholder
-Allianz Asset Management GmbH,empresa,AstraZeneca PLC,shareholder
-Bessemer Trust Co. NA,empresa,AstraZeneca PLC,shareholder
-KBC Asset Management NV,empresa,AstraZeneca PLC,shareholder
-Brewin Dolphin Ltd.,empresa,AstraZeneca PLC,shareholder
-Goldman Sachs Group Inc.,empresa,AstraZeneca PLC,shareholder
-AstraZeneca Employee Share Trust Ltd,empresa,AstraZeneca PLC,shareholder
-HBOS Investment Fund Managers Ltd.,empresa,AstraZeneca PLC,shareholder
-Boston Partners Global Investors Inc.,empresa,AstraZeneca PLC,shareholder
-Candriam société en commandite par actions.,empresa,AstraZeneca PLC,shareholder
-PFA Pension forsikringsA/S,empresa,AstraZeneca PLC,shareholder
-Nomura Holdings Inc.,empresa,AstraZeneca PLC,shareholder
-Teacher Retirement System of Texas,gobierno,AstraZeneca PLC,shareholder
-Bank Julius Bär & Co. AG,empresa,AstraZeneca PLC,shareholder
-First Trust Advisors LP,empresa,Moderna,shareholder
-Parnassus Investments LLC,empresa,Moderna,shareholder
-The Toronto-Dominion Bank,empresa,Moderna,shareholder
-California Public Employees' Retirement System,empresa,Moderna,shareholder
-Franklin Resources Inc.,empresa,Moderna,shareholder
-Bank of America Corp.,empresa,Moderna,shareholder
-Australian Super Pty Ltd,empresa,Moderna,shareholder
-Rhumbline Advisers Ltd Partnership,empresa,Moderna,shareholder
-National Pension Service,empresa,Moderna,shareholder
-California State Teachers' Retirement System,empresa,Moderna,shareholder
-New York State Common Retirement Fund,empresa,Moderna,shareholder
-BNP Paribas Securities Corp.,empresa,Moderna,shareholder
-Goldman Sachs Group Inc.,empresa,Moderna,shareholder
-Voya Investment Management LLC,empresa,Moderna,shareholder
-AssetMark Inc.,empresa,Moderna,shareholder
-Credit Suisse Asset Management (Switzerland) Ltd.,empresa,Moderna,shareholder
-Sjunde AP-fonden,empresa,Moderna,shareholder
-JPMorgan Chase & Co.,empresa,Moderna,shareholder
-Canada Pension Plan Investment Board,empresa,Moderna,shareholder
-Invesco Ltd.,empresa,Moderna,shareholder
-Royal London Asset Management Ltd.,empresa,Moderna,shareholder
-Candriam Luxembourg SA,empresa,Moderna,shareholder
-ProShare Advisors LLC,empresa,Moderna,shareholder
-AllianceBernstein LP,empresa,Moderna,shareholder
-State Board of Administration of Florida,empresa,Moderna,shareholder
-HSBC Global Asset Management (UK) Ltd.,empresa,Moderna,shareholder
-Principal Global Investors LLC,empresa,Moderna,shareholder
-AXA Investment Managers SA,empresa,Moderna,shareholder
-Paul L. Sagan,persona,Moderna,shareholder
-Mirae Asset Global Investments Co. Ltd.,empresa,Moderna,shareholder
-New York State Teachers' Retirement System,gobierno,Moderna,shareholder
-HSBC Global Asset Management (UK) Ltd.,empresa,Pfizer Inc.,shareholder
-JPMorgan Chase & Co.,empresa,Pfizer Inc.,shareholder
-New York State Common Retirement Fund,gobierno,Pfizer Inc.,shareholder
-First Trust Advisors LP,empresa,Pfizer Inc.,shareholder
-Rhumbline Advisers Ltd Partnership,empresa,Pfizer Inc.,shareholder
-Boston Partners Global Investors Inc.,empresa,Pfizer Inc.,shareholder
-California State Teachers' Retirement System,gobierno,Pfizer Inc.,shareholder
-PGIM Inc.,empresa,Pfizer Inc.,shareholder
-PNC Financial Services Group Inc.,empresa,Pfizer Inc.,shareholder
-Invesco Capital Management LLC,empresa,Pfizer Inc.,shareholder
-Royal Bank of Canada,empresa,Pfizer Inc.,shareholder
-AQR Capital Management LLC,empresa,Pfizer Inc.,shareholder
-Raymond James Financial  Inc.,empresa,Pfizer Inc.,shareholder
-Susquehanna International Group LLP,empresa,Pfizer Inc.,shareholder
-Robert W. Baird & Co. Inc.,empresa,Pfizer Inc.,shareholder
-National Pension Service,empresa,Pfizer Inc.,shareholder
-Nordea Investment Management AB,empresa,Pfizer Inc.,shareholder
-U.S. Bancorp Asset Management Inc.,empresa,Pfizer Inc.,shareholder
-Deka Investment GmbH,empresa,Pfizer Inc.,shareholder
-Invesco Ltd.,empresa,Pfizer Inc.,shareholder
-D.E. Shaw & Co. LP,empresa,Pfizer Inc.,shareholder
-Thornburg Investment Management Inc.,empresa,Pfizer Inc.,shareholder
-London Co. of Virginia LLC,empresa,Pfizer Inc.,shareholder
-Sjunde AP-fonden,gobierno,Pfizer Inc.,shareholder
-Pacer Advisors Inc.,empresa,Pfizer Inc.,shareholder
-Assenagon Asset Management S.A.,empresa,Pfizer Inc.,shareholder
-Stichting Pensioenfonds ABP,empresa,Pfizer Inc.,shareholder
-Schroder Investment Management Ltd.,empresa,Pfizer Inc.,shareholder
-Manulife Asset Management,empresa,Pfizer Inc.,shareholder
-Diamond Hill Capital Management Inc.,empresa,Pfizer Inc.,shareholder
-FMR LLC,empresa,Pfizer Inc.,shareholder
-New York State Teachers' Retirement System,empresa,Pfizer Inc.,shareholder
-State Board of Administration of Florida,empresa,Pfizer Inc.,shareholder
-Canada Pension Plan Investment Board,gobierno,Pfizer Inc.,shareholder
-The Toronto-Dominion Bank,empresa,Pfizer Inc.,shareholder
-LPL Financial LLC,empresa,Pfizer Inc.,shareholder
-Strategic Advisers LLC,empresa,Pfizer Inc.,shareholder
-GWL Investment Management Ltd.,empresa,Pfizer Inc.,shareholder
-Credit Suisse Asset Management (Switzerland) Ltd.,empresa,Pfizer Inc.,shareholder
-Austria,gobierno,Gavi Alliance,shareholder
-Bahrein,gobierno,Gavi Alliance,shareholder
-Bélgica,gobierno,Gavi Alliance,shareholder
-Canadá,gobierno,Gavi Alliance,shareholder
-China,gobierno,Gavi Alliance,shareholder
-Colombia,gobierno,Gavi Alliance,shareholder
-Croacia,gobierno,Gavi Alliance,shareholder
-Dinamarca,gobierno,Gavi Alliance,shareholder
-Comisión Europea,gobierno,Gavi Alliance,shareholder
-Finlandia,gobierno,Gavi Alliance,shareholder
-Francia,gobierno,Gavi Alliance,shareholder
-Alemania,gobierno,Gavi Alliance,shareholder
-Grecia,gobierno,Gavi Alliance,shareholder
-Islandia,gobierno,Gavi Alliance,shareholder
-Irlanda,gobierno,Gavi Alliance,shareholder
-Italia,gobierno,Gavi Alliance,shareholder
-Japón,gobierno,Gavi Alliance,shareholder
-Reino de Arabia Saudí,gobierno,Gavi Alliance,shareholder
-Kuwait,gobierno,Gavi Alliance,shareholder
-Liechtenstein,gobierno,Gavi Alliance,shareholder
-Luxemburgo,gobierno,Gavi Alliance,shareholder
-Países Bajos,gobierno,Gavi Alliance,shareholder
-Nueva Zelanda,gobierno,Gavi Alliance,shareholder
-Noruega,gobierno,Gavi Alliance,shareholder
-Omán,gobierno,Gavi Alliance,shareholder
-Filipinas,gobierno,Gavi Alliance,shareholder
-Polonia,gobierno,Gavi Alliance,shareholder
-Portugal,gobierno,Gavi Alliance,shareholder
-Qatar,gobierno,Gavi Alliance,shareholder
-República de Corea,gobierno,Gavi Alliance,shareholder
-Singapur,gobierno,Gavi Alliance,shareholder
-Eslovenia,gobierno,Gavi Alliance,shareholder
-España,gobierno,Gavi Alliance,shareholder
-Suecia,gobierno,Gavi Alliance,shareholder
-Suiza,gobierno,Gavi Alliance,shareholder
-Reino Unido,gobierno,Gavi Alliance,shareholder
-Estados Unidos de América,gobierno,Gavi Alliance,shareholder
-Vietnam,gobierno,Gavi Alliance,shareholder
 Analog Devices Foundation,empresa,Gavi Alliance,shareholder
 Asia Philanthropy Circle,empresa,Gavi Alliance,shareholder
 Bill & Melinda Gates Foundation,empresa,Gavi Alliance,shareholder
