@@ -3,6 +3,8 @@ AstraZeneca UK Limited,empresa,,
 AstraZeneca PLC,empresa,AstraZeneca UK Limited,parent
 Serum Institute of India,empresa,,
 Cyrus Poonawalla Group,empresa,Serum Institute of India,parent
+Limited Liability Company Human Vaccine,empresa,,
+Fondo Ruso de Inversión Directa,empresa,Limited Liability Company Human Vaccine, parent 
 Pfizer Export B.V.,empresa,,
 Pfizer Inc.,empresa,Pfizer Export B.V.,parent
 CanSino Biologics Inc.,empresa,,
@@ -13,8 +15,6 @@ Janssen Pharmaceutica,empresa,,
 Johnson & Johnson,empresa,Janssen Pharmaceutica,parent
 Gavi Alliance,empresa,,
 Centro de Ingenieria Genetica y Biotecnología,empresa,,
-Limited Liability Company Human Vaccine,empresa,,
-Fondo Ruso de Inversión Directa, empresa,Limited Liability Company Human Vaccine, parent 
 Dongxu Qiu,persona,CanSino Biologics Inc.,shareholder
 Tao Zhu,persona,CanSino Biologics Inc.,shareholder
 Xuefeng Yu,persona,CanSino Biologics Inc.,shareholder

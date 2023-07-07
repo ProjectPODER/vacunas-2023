@@ -49,6 +49,10 @@
         box-shadow: 0 0 50px rgba(0,0,0,0.4);
         margin-bottom: 0 !important;
     }
+    sup {
+        color: $red;
+        font-weight: bold;
+    }
 }
 
 .invisible-node {
