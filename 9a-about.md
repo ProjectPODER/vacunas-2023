@@ -6,7 +6,7 @@ permalink: /sobre-el-proyecto/
 
 # Quiénes somos
 
-El Negocio de las Vacuna$ es un proyecto de datos, investigación y periodismo de PODER para transparentar información sobre el proceso de autorización, adquisición y vacunación contra COVID-19 y evidenciar los mecanismos por los cuales las grandes empresas farmacéuticas capturan la toma de decisiones sobre políticas de salud anteponiendo sus ganancias por sobre los derechos humanos. Hacer visible la captura corporativa en el caso de las vacunas contra COVID-19 es el objetivo principal del proyecto.
+El Negocio de las Vacuna$ es un proyecto de datos, investigación y periodismo de PODER para transparentar información sobre el poder de las empresas farmacéuticas que producen vacunas y tratamientos orales para la COVID-19. Este proyecto evidencia los mecanismos por los cuales las grandes empresas farmacéuticas capturan la toma de decisiones sobre políticas de salud anteponiendo sus ganancias por sobre los derechos humanos. Hacer visible la captura corporativa en el caso de las vacunas y tratamientos contra COVID-19 es el objetivo principal del proyecto.
 
 
 # Metodología
