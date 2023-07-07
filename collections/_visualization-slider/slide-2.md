@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: visualizacion2.png
+image: v2.png
 ---
 
 # PINCHAZOS Y CONTRATOS

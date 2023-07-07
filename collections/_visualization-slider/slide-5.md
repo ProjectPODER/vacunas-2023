@@ -1,6 +1,6 @@
 ---
 title: Slide 5
-image: visualizacion5.png
+image: v5.png
 ---
 
 # BENEFICIO$ COVID

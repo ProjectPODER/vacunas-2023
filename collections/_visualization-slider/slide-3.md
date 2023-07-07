@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: visualizacion3.png
+image: v3.png
 ---
 
 # GRANDES BENEFICIOS NADA DE INFORMACIÓN

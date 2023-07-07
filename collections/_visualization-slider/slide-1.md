@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-image: visualizacion1.png
+image: v1.png
 ---
 
 # PANDEMIA DE OPACIDAD
